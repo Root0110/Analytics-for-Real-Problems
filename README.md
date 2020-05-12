@@ -1,4 +1,4 @@
-# Unsupervised Stoll Sample Analysis in Hepatic Encephalopathy
+## Unsupervised Stoll Sample Analysis in Hepatic Encephalopathy
 ### Background
 In this project, I will study relative abundance data for microbes in stool samples collected from two sets of patients: 
 those with cirrhosis but not HE (HE0 population), and those with cirrhosis who have developed HE (HE1 populations).
